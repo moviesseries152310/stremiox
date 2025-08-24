@@ -1,0 +1,9 @@
+{
+  "name": "StremioX Repo",
+  "iconUrl": "https://raw.githubusercontent.com/moviesseries152310/stremiox/builds/icon.png",
+  "description": "Cloudstream extensions ported from Stremio",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/moviesseries152310/stremiox/builds/plugins.json"
+  ]
+}
