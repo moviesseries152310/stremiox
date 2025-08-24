@@ -1,0 +1,10 @@
+{
+  "name": "StremioX",
+  "description": "Stremio addon port for Cloudstream",
+  "version": 1,
+  "language": "en",
+  "authors": ["phisher98"],
+  "tvTypes": ["Movie", "TvSeries"],
+  "iconUrl": "https://raw.githubusercontent.com/moviesseries152310/stremiox/builds/icon.png",
+  "pluginClass": "com.hexated.StremioXPlugin"
+}
