@@ -1,0 +1,19 @@
+[
+  {
+    "iconUrl": "https://raw.githubusercontent.com/moviesseries152310/stremiox/builds/icon.png",
+    "jarFileSize": 0,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/moviesseries152310/stremiox",
+    "fileSize": 0,
+    "status": 1,
+    "language": "en",
+    "authors": ["phisher98"],
+    "tvTypes": ["Movie", "TvSeries"],
+    "version": 1,
+    "internalName": "StremioX",
+    "jarUrl": "https://raw.githubusercontent.com/moviesseries152310/stremiox/builds/StremioX.jar",
+    "description": "Stremio addon port for Cloudstream",
+    "url": "https://raw.githubusercontent.com/moviesseries152310/stremiox/builds/StremioX.cs3",
+    "name": "StremioX"
+  }
+]
